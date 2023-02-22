@@ -1,0 +1,20 @@
+.movie-card {
+    width: 30rem;
+    margin: 2rem 3rem;
+}
+
+.icon {
+    color: #FFD700;
+}
+
+.details p {
+    font-size: 1.5rem;
+}
+
+
+@media screen and (max-width: 1080px) {
+    .movie-card {
+        width: 90rem;
+    }
+
+}

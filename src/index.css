@@ -1,0 +1,85 @@
+:root {
+  background-color: #242424;
+  font-size: 62.5%;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffff;
+}
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+ul {
+  list-style: none;
+}
+
+#root {
+  height: 100vh;
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-top: 2rem;
+  text-transform: uppercase;
+}
+
+section {
+  text-align: center;
+}
+
+img {
+  width: 300px;
+}
+
+input[type="button"] {
+  border: none;
+  background: #0EF00E;
+  padding: 1.5rem;
+  border-radius:2.5rem ;
+  cursor: pointer;
+  font-size: 2.0rem;
+  color: #f3f3f3;
+  transition: 400ms;
+}
+
+input[type="button"]:hover {
+  color: #000;
+}
+
+input[type="text"] {
+  background-color: #000;
+  position: relative;
+  width: 100%;
+  border-radius:1rem;
+  padding: 1.5rem;
+  outline: none;
+  border: none;
+  color: #f3f3f3;
+  font-size: 1.5rem;
+  padding-left: 3.5rem;
+}
+
+form {
+  display: flex;
+  align-items: center;
+  width: 45%;
+}
+
+.div-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+}

@@ -1,0 +1,34 @@
+.movie-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 3rem 0;
+}
+
+.h2-movie {
+    font-size: 3rem;
+}
+
+.movie-paragraph {
+    font-size: 2rem;
+    word-break: break-word;
+    line-height: 3rem;
+}
+
+.movie-span {
+    font-weight: bold;
+}
+
+.movie-review {
+    font-size: 2rem;
+}
+
+.paragraphs-container {
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+}
