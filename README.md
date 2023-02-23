@@ -1,5 +1,6 @@
 # project-movie
-Projeto onde aprendi a consumir API utilizando a biblioteca ReactJS
+Projeto onde aprendi a consumir API utilizando ReactJS
+Lidei com React-Router, React-Hooks e consumo de API para criar esse projeto
 
 [Site da API utilizada] (https://developers.themoviedb.org/3/getting-started/introduction)
 
@@ -17,4 +18,3 @@ Projeto onde aprendi a consumir API utilizando a biblioteca ReactJS
 
 * Imagem da aba das rotas dinâmicas:
     ![Imagem da parte da home do site] (image/search.png)
-
