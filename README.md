@@ -1,6 +1,6 @@
 # project-movie
 Projeto onde aprendi a consumir API utilizando ReactJS <br/>
-Utilizei a API do TMDB para criação do projeto.
+Utilizei a API do TMDB para criação do projeto. <br/>
 Lidei com React-Router, React-Hooks e consumo de API para criar esse projeto
 
 [Site da API utilizada](https://developers.themoviedb.org/3/getting-started/introduction)
