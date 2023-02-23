@@ -22,8 +22,8 @@ Lidei com React-Router, React-Hooks e consumo de API para criar esse projeto
 
 
 ### Tecnologias utilizadas no projeto:
-*JSX
-*React
-*React-router-dom
-*React-hooks
-*CSS
+* JSX
+* React
+* React-router-dom
+* React-hooks
+* CSS
