@@ -1,5 +1,5 @@
 # project-movie
-Projeto onde aprendi a consumir API utilizando ReactJS
+Projeto onde aprendi a consumir API utilizando ReactJS <br/>
 Lidei com React-Router, React-Hooks e consumo de API para criar esse projeto
 
 [Site da API utilizada](https://developers.themoviedb.org/3/getting-started/introduction)
