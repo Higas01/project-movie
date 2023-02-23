@@ -11,14 +11,14 @@ Lidei com React-Router, React-Hooks e consumo de API para criar esse projeto
 ![Imagem da parte da home do site](image/home.png)
 
 ### imagem da aba de Pesquisa:
-![Imagem da parte da home do site](image/search.png)
+![Imagem da parte da aba de pesquisa do site](image/search.png)
 
 ### Imagem da aba das rotas dinâmicas:
-![Imagem da parte da home do site](image/rota_dinamica.png)
+![Imagem da parte de rotas dinâmicas do site](image/rota_dinamica.png)
 
 
 ### Imagem da aba das rotas dinâmicas:
-![Imagem da parte da home do site](image/search.png)
+![Imagem da parte da parte de filmes melhores avaliados do site](image/bests.png)
 
 
 ### Tecnologias utilizadas no projeto:
